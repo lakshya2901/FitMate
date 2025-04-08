@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Optional build output
+dist/
+build/
+.next/
+
+# IDEs
+.vscode/
+.idea/
+
+# Cache
+.cache/
+*.tmp
+
+# Coverage reports
+coverage/
+
+# Dependency directories
+bower_components/
+
+# Misc
+*.local
+.env.local
+.env.*.local
