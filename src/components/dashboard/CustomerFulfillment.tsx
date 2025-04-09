@@ -60,12 +60,12 @@ export default function CustomerFulfillment() {
         <div className="flex items-center">
           <div className="w-3 h-3 rounded-full bg-cyan-500 mr-2"></div>
           <span className="text-xs text-gray-300">This Month</span>
-          <span className="text-xs font-semibold ml-2">$5,506</span>
+          <span className="text-xs font-semibold ml-2">Rs 5,506</span>
         </div>
         <div className="flex items-center">
           <div className="w-3 h-3 rounded-full bg-purple-500 mr-2"></div>
           <span className="text-xs text-gray-300">Last Month</span>
-          <span className="text-xs font-semibold ml-2">$4,087</span>
+          <span className="text-xs font-semibold ml-2">Rs 4,087</span>
         </div>
       </div>
     </div>

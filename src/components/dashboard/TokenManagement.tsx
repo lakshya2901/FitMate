@@ -21,9 +21,9 @@ export default function TokenManagement() {
     { id: '1', name: 'Aarav Sharma', email: 'aarav.sharma@gmail.com', tokenBalance: 500, membershipType: 'Premium', status: 'Active' },
     { id: '2', name: 'Meera Iyer', email: 'meera.iyer@gmail.com', tokenBalance: 250, membershipType: 'Basic', status: 'Active' },
     { id: '4', name: 'Rohan Gupta', email: 'rohan.gupta@gmail.com', tokenBalance: 150, membershipType: 'Premium', status: 'Inactive' },
-    { id: '5', name: 'Priya Verma', email: 'priya.verma@gmail.com', tokenBalance: 850, membershipType: 'Basic', status: 'Active' },
-    { id: '6', name: 'Ananya Singh', email: 'ananya.singh@gmail.com', tokenBalance: 950, membershipType: 'Premium', status: 'Active' },
-    { id: '7', name: 'Kunal Nair', email: 'kunal.nair@gmail.com', tokenBalance: 120, membershipType: 'Basic', status: 'Inactive' },
+    { id: '5', name: 'Priya Verma', email: 'priya.verma@gmail.com', tokenBalance: 8500, membershipType: 'Basic', status: 'Active' },
+    { id: '6', name: 'Ananya Singh', email: 'ananya.singh@gmail.com', tokenBalance: 20000, membershipType: 'Premium', status: 'Active' },
+    { id: '7', name: 'Kunal Nair', email: 'kunal.nair@gmail.com', tokenBalance: 1200, membershipType: 'Basic', status: 'Inactive' },
     { id: '8', name: 'Ishita Das', email: 'ishita.das@gmail.com', tokenBalance: 300, membershipType: 'Premium', status: 'Active' },
     { id: '9', name: 'Raj Mehta', email: 'raj.mehta@gmail.com', tokenBalance: 675, membershipType: 'Basic', status: 'Active' }
   ];
